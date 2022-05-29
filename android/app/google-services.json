@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966655479601",
+    "project_id": "iosreminder-d5d72",
+    "storage_bucket": "iosreminder-d5d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966655479601:android:be7d9d92199398a561ea10",
+        "android_client_info": {
+          "package_name": "com.example.iosreminder.iosreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966655479601-893lrmb2mjm31gsj2hjh5tv0qudndr24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ZCJ5O3U1XyK34oQpnjQqjSL9y45i0Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966655479601-893lrmb2mjm31gsj2hjh5tv0qudndr24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
